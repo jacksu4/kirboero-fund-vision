@@ -1,28 +1,25 @@
 
-# Personal Website
+# Kirboero Asset Management Limited
 
-This repository contains the source code for my personal website.
+## About Us
 
-## About This Project
+Kirboero Asset Management Limited is a SFC Type 9 licensed asset management company based in Hong Kong. We specialize in tech-focused investments through our flagship fund.
 
-This personal website showcases my professional background, skills, and portfolio. It serves as a digital resume and a platform to share my work and interests.
+### Our Flagship Fund
 
-## Features
+Our flagship fund invests in leading technology companies including:
+- Tesla
+- Apple
+- Nvidia
+- Palantir
+- Intuitive Surgical
+- And other innovative tech companies
 
-- Professional profile and biography
-- Skills and expertise showcase
-- Portfolio of projects and work experience
-- Contact information
-- Blog/articles section (optional)
+## Project Information
 
-## Technology Stack
+This repository contains the source code for the Kirboero Asset Management Limited website.
 
-This project is built with:
-- React
-- TypeScript
-- Tailwind CSS
-- shadcn/ui components
-- Vite
+**URL**: https://lovable.dev/projects/3ad4c94d-e4b3-4924-8e74-38d4d4a8e6c8
 
 ## Installation Instructions
 
@@ -37,7 +34,7 @@ This project is built with:
 git clone <YOUR_REPOSITORY_URL>
 
 # Step 2: Navigate to the project directory
-cd personal-website
+cd kirboero-asset-management
 
 # Step 3: Install dependencies
 npm install
@@ -46,37 +43,24 @@ npm install
 npm run dev
 ```
 
-The development server will start at http://localhost:3000
-
-## Project Structure
-
-```
-personal-website/
-├── public/            # Static files
-├── src/
-│   ├── components/    # UI components
-│   ├── pages/         # Page components
-│   ├── assets/        # Images, fonts, etc.
-│   ├── styles/        # Global styles
-│   ├── utils/         # Utility functions
-│   ├── App.tsx        # Main application component
-│   └── main.tsx       # Entry point
-├── package.json       # Dependencies
-└── README.md          # This file
-```
+The development server will start at http://localhost:8080
 
 ## Deployment
 
-To deploy this website to production, you can use:
-- GitHub Pages
-- Netlify
-- Vercel
-- AWS Amplify
+To deploy this website to production:
 
-## License
+1. Open [Lovable](https://lovable.dev/projects/3ad4c94d-e4b3-4924-8e74-38d4d4a8e6c8)
+2. Click on Share -> Publish
 
-[Choose an appropriate license for your personal website]
+## Technology Stack
 
-## Contact
+This project is built with:
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui components
+- Vite
 
-[Your contact information]
+## Contact Information
+
+For inquiries about Kirboero Asset Management Limited or our investment opportunities, please contact us through the website's contact form.
